@@ -20,4 +20,4 @@ O projeto teve como foco os passos iniciais em HTML, CSS e Git, onde foram abord
 ## ✉️ Contato
 
 - E-mail: joao2arj@gmail.com
-- LinkedIn: linkedin.com/in/joao2arj
+- LinkedIn: https://linkedin.com/in/joao2arj
