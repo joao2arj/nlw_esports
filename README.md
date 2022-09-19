@@ -4,7 +4,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto contruído no evento Next Level Week da Rocketseat.
+Projeto construído no evento Next Level Week da Rocketseat focando os princípios da programação web.
 
 [🔗 Clique aqui para acessar](https://joao2arj.github.io/nlw)
 
