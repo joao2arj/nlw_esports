@@ -15,7 +15,7 @@ Projeto contruído no evento Next Level Week da Rocketseat.
 - Git e Github
 
 ## 🔵 Informações adicionais
-O projeto teve como foco os passos iniciais em HTML, CSS e Git, onde foram abordados tópicos como: keyframes, efeitos, delays, uso do Figma dentre outros.
+O projeto teve como foco os passos iniciais em HTML, CSS e Git, onde foram abordados elementos básicos das linguagens em questão e o uso do Figma.
 
 ## ✉️ Contato
 
